@@ -1,0 +1,33 @@
+h#h1
+{
+font-family: CaviarDreams;
+font-size: 250%;
+}
+
+body
+{
+background-repeat: no-repeat;
+ background-attachment: fixed;
+}
+
+
+p#p1
+{
+	font-family: CaviarDreams;
+	font-size:15px;
+font-weight:bold;
+    	width: 205px;
+   	padding: 10px;
+    	border: 2px solid #383838;
+    	margin: 3px;
+
+	border-radius : 15px;
+
+	
+}
+
+p#p2
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:20px;
+}

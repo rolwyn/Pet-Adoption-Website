@@ -1,0 +1,23 @@
+.tableheader {
+height:40px;
+background-color: #95BEE6;
+color:white;
+font-weight:bold;
+}
+.tablerow {
+height:40px;
+background-color: #A7D6F1;
+color:white;
+}
+.message {
+height:40px;
+color: #FF0000;
+font-weight: bold;
+text-align: center;
+width: 100%;
+}
+a
+{font-weight:bold;
+font-size:30px;
+color:#95BEE6;
+}
